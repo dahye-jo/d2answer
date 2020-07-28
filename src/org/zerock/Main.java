@@ -24,7 +24,7 @@ public class Main {
                 lastWinner = winner;
                 winCount = 1;
             }
-            winCount++;
+
 
             if(winCount == 3){
                 break;

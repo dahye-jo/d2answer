@@ -26,9 +26,9 @@ public class SGPGame {
         int gap = comValue - userValue;
 
         if(gap == 1){
-            return "U";
-        }else if(gap == 2){
             return "C";
+        }else if(gap == 2){
+            return "U";
         }
 
         return "D";

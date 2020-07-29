@@ -25,7 +25,6 @@ public class Main {
                 winCount = 1;
             }
 
-
             if(winCount == 3){
                 break;
             }

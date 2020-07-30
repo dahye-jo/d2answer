@@ -7,6 +7,9 @@ public class MovieTracker {
 
     public static void main(String[] args) {
 
+        Class clz = void.class;
+
+
         double[][] data = {
                 {1.0, 60.0, 30.0},
                 {1.0, 12.0, 3.0},

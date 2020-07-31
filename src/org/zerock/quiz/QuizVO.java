@@ -2,9 +2,9 @@ package org.zerock.quiz;
 
 public class QuizVO {
 
-    String question;
-    String optionStr;
-    int answer;
+    private String question;
+    private String optionStr;
+    private int answer;
 
     public QuizVO(String question, String optionStr, int answer) {
         this.question = question;
